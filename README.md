@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Caro
+- 👋 Hi, I’m @code-caro
 - 👀 I’m interested in ... AI, cyber security, Software engineering 
 - 🌱 I’m currently learning ... Java, Python, C++
 - 💞️ I’m looking to collaborate on ...
