@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @code-caro
-- 👀 I’m interested in ... AI, cyber security, Software engineering 
-- 🌱 I’m currently learning ... Java, Python, C++
+- 👀 I’m interested in ... AI, cyber security, Software engineering, Web Development & Webdesign
+- 🌱 I’m currently learning ... JavaScript, React, PHP, Laravel 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
